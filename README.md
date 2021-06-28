@@ -10,7 +10,11 @@ This repositories contains machine learning model training process and deploymen
 
 ## Getting started
 
-1. Create docker image from dockerfile.
+1. Download the dataset from kaggle and extract the files.
+
+1. Open jupyter notebook and run all cells. This will save the model for the flask app later.
+
+2. Create docker image from dockerfile.
 
     `docker build -t flask_app .`
     

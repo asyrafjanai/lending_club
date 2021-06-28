@@ -3,7 +3,7 @@
 This repositories contains machine learning model training process and deployment in flask framework.
 
 1. Model training and data visualization can be found in *data_analysis.ipynb* notebook.
-2. Flask deployment can be found in *flask_app* folder, alongside pre-trained random-forest model in data folder.
+2. Flask deployment can be found in *flask_app* folder.
 3. *test_script.py* is the script used to send request to flask server.
 4. Package requirements for both flask_app and test_script is located at *flask_app/requirements.txt*
 
